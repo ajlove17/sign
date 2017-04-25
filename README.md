@@ -7,12 +7,22 @@ This project is about teaching young children American Sign Language (ASL). It i
 # Data
 ## Signs
 With the help of video assets from my undergraduate project and https://osf.io/ys356/ I will create a database of ASL signs
+### Sign Object:
+•	signID: number
+•	signName :String
+•	signVideoPath: String
+•	SignVideoAlt: String
+•	signVideoIMG: string
+•	signWorldIMG: String
 
 ## Quiz
 See quiz page for details
 
-## Quiz
-See quiz page for details
+### Quiz object:
+•	quizQ : Array of objects
+•	quizChoiceOptions: Array of strings
+•	quizCorrect: Number
+
 
 # Outline Flowchart
 •	Index
