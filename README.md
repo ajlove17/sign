@@ -30,7 +30,7 @@ o	Quiz on Signs
 o	Users
 
 # Web hosting
-Location: www.ajwport.com
+Location: www.ajwport.com/sign/
 Database: MySQL (Cannot use MongoDB)
 Template: Handlebars https://cdnjs.com/libraries/handlebars.js
 Client side: JavaScript
